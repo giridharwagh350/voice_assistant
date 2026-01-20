@@ -1,2 +1,2 @@
 # voice_assistant
-An AI-powered Voice Assistant that converts voice input into text and generates intelligent responses using Natural Language Processing with Python, Django, and Google Gemini Flash 2.2 API.
+An AI-powered Voice Assistant built in a virtual environment using Python, Django, and Google Gemini Flash 2.2 API, converting voice input into text and generating responses using NLP.
